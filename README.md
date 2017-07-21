@@ -19,3 +19,7 @@ Trying to install and use some Webpack functionality
 второй способ это скаченный файл eslintrc.json переименовать на .eslintrc.json
 
 проблема с тем что гит игнорирует файлы которые начинаются с точки, это как-то можно решить наверное, но пока так..
+
+потом понятно 
+npm i
+webpack
