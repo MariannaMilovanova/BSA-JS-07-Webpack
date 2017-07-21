@@ -1,0 +1,19 @@
+$fontsize: 19px;
+$blue: #0B5E56;
+.user {
+  padding: 3%;
+  width: 300px;
+  margin: 0 auto;
+  font-size: $fontsize;
+  font-style: italic;
+  color: $blue;
+}
+
+.user-pic {
+  width: 150px;
+  float: left;
+}
+
+.innerDiv {
+  padding: 2%;
+}
