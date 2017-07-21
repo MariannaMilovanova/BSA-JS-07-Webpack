@@ -1,0 +1,12 @@
+{
+  "root": true,
+  "globals": {
+    "wp": true
+  },
+  "env": {
+    "amd": true,
+    "browser": true,
+    "node": true
+  },
+  "parser": "babel-eslint"
+}
